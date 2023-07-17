@@ -29,7 +29,7 @@ function Navbar() {
       <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
         <Flex h="74px" alignItems={'center'} justifyContent={'space-between'}>
           <chakra.p fontSize="20px" fontWeight="semibold">
-            OrdWallet
+            🅾️❌Wallet
           </chakra.p>
 
           <Flex alignItems={'center'}>
